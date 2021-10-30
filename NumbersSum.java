@@ -3,6 +3,7 @@ public class NumbersSum{
         Integer a = 10;
         Integer b = 20;
         Integer c =30;
-        System.out.println(a+b+c);
+        Integer d =40;
+     System.out.println(a+b+c+d);   
     }
-}
+}       
