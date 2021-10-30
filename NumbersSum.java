@@ -1,7 +1,8 @@
 public class NumbersSum{
     public static void main(String args[]){
-        Int a = "10";
-        int b = "20";
-        System.out.println(a+b);
+        Integer a = 10;
+        Integer b = 20;
+        Integer c =30;
+        System.out.println(a+b+c);
     }
 }
